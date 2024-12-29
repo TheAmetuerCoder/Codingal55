@@ -1,0 +1,5 @@
+print("I am Tisha!")
+print("I love to read!")
+print("I love to travel!")
+print("I love to wear hoodies!")
+print("I'm an aspiring writer!")
